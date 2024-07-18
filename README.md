@@ -11,6 +11,9 @@ David Nikolovski 173205
 
 5. 
 Т Т Т
+
 Т T F
+
 T F X
+
 F X X
